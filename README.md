@@ -50,4 +50,5 @@ The dashboard transforms raw sales data into actionable insights, helping stakeh
 
 # Example
 Project :- https://github.com/Shantanu143-boop/Chocolate-Sales-2023---2024-Project/blob/main/Chocolate%20Sales%20%202023%20-%202024%20Project.pbix
+
 Screenshot :- https://github.com/Shantanu143-boop/Chocolate-Sales-2023---2024-Project/blob/main/overview.png
