@@ -49,4 +49,5 @@ This project presents an interactive Power BI dashboard built to analyze chocola
 The dashboard transforms raw sales data into actionable insights, helping stakeholders monitor KPIs, identify trends, and make informed business decisions.
 
 # Example
+Project :-
 Screenshot :- https://github.com/Shantanu143-boop/Chocolate-Sales-2023---2024-Project/blob/main/overview.png
